@@ -6,4 +6,3 @@ two
 three
 four
 
-Kate was here.
